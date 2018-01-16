@@ -65,4 +65,4 @@ def process_videos(test_videos):
 # process_single_image('../test_images/straight_lines2.jpg')
 # process_single_image('../output_images/project_video/input/643.jpg')
 # process_videos(["../project_video.mp4"])
-process_videos(["../challenge_video.mp4", "../harder_challenge_video.mp4"])
+process_videos(["../project_video.mp4", "../challenge_video.mp4", "../harder_challenge_video.mp4"])
